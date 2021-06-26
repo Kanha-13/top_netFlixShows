@@ -1,0 +1,60 @@
+{
+    "shows": [
+        {
+            "sno": "1",
+            "title": "DARK",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeu5Oz4CGncoVEvCDhLelkyQc7H0KsaLyauqCprkOTTePn46kiFYRe1AUg5UkCp9ka7RTgyc8mKrSy7w9VFeQDokfmzy.jpg?r=077",
+            "show_link": "https://www.netflix.com/in/title/80100172"
+        },
+        {
+            "sno": "2",
+            "title": "MONEY HEIST",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUpJhujhQAvjWyEkzhf6Z3ChDyZHZChxm8Q_3C6818BjZB3TC6hZ6rW_EpKl4NSoA6QQF187BYhiwzTwd7lY79ERH6o6.jpg?r=a73",
+            "show_link": "https://www.netflix.com/in/title/80192098"
+        },
+        {
+            "sno": "3",
+            "title": "LUCIFER",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRAICWZPGa-WCLxAwgP23jkxzupZWnRAXMc4uhq4YnxkoWKaLEQpQ_M1wv4lpcuJuJ75cxfTh4UM_RasFEjk3xnNlWDZ.jpg?r=fb2",
+            "show_link": "https://www.netflix.com/in/title/80057918"
+        },
+        {
+            "sno": "4",
+            "title": "EXTRACTION",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd4eoielzKfx0Vrxi0Y9bCiW5dYIbZBF3Y-Txt1NrdjGZ3L_sva5z-FyZxFvUx4mncUHx4L7n2oxg3qNnD91NhdoK6QQ.jpg?r=775",
+            "show_link": "https://www.netflix.com/in/title/80230399"
+        },
+        {
+            "sno": "1",
+            "title": "DARK",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeu5Oz4CGncoVEvCDhLelkyQc7H0KsaLyauqCprkOTTePn46kiFYRe1AUg5UkCp9ka7RTgyc8mKrSy7w9VFeQDokfmzy.jpg?r=077",
+            "show_link": "https://www.netflix.com/in/title/80100172"
+        },
+        {
+            "sno": "2",
+            "title": "MONEY HEIST",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUpJhujhQAvjWyEkzhf6Z3ChDyZHZChxm8Q_3C6818BjZB3TC6hZ6rW_EpKl4NSoA6QQF187BYhiwzTwd7lY79ERH6o6.jpg?r=a73",
+            "show_link": "https://www.netflix.com/in/title/80192098"
+        },
+        {
+            "sno": "3",
+            "title": "LUCIFER",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRAICWZPGa-WCLxAwgP23jkxzupZWnRAXMc4uhq4YnxkoWKaLEQpQ_M1wv4lpcuJuJ75cxfTh4UM_RasFEjk3xnNlWDZ.jpg?r=fb2",
+            "show_link": "https://www.netflix.com/in/title/80057918"
+        },
+        {
+            "sno": "4",
+            "title": "EXTRACTION",
+            "category": "NETFLIX ORIGINAL",
+            "img_src": "https://occ-0-2085-2186.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd4eoielzKfx0Vrxi0Y9bCiW5dYIbZBF3Y-Txt1NrdjGZ3L_sva5z-FyZxFvUx4mncUHx4L7n2oxg3qNnD91NhdoK6QQ.jpg?r=775",
+            "show_link": "https://www.netflix.com/in/title/80230399"
+        }
+    ]
+}
